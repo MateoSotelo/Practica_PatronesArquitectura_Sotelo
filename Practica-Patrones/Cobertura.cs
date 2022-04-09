@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practica_Patrones
+namespace LogicaDeNegocios
 {
     public enum tipoCobertura { Maxima, Normal};
     public class Cobertura

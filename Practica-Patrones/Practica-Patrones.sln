@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica-Patrones", "Practica-Patrones.csproj", "{1834020B-DDDB-4FFF-8CC2-5BB7B2BE1028}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicaDeNegocios", "LogicaDeNegocios.csproj", "{1834020B-DDDB-4FFF-8CC2-5BB7B2BE1028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "..\Persistencia\Persistencia.csproj", "{8DEAE5F6-AF27-4FF2-AD5B-7AA395134F0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1834020B-DDDB-4FFF-8CC2-5BB7B2BE1028}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1834020B-DDDB-4FFF-8CC2-5BB7B2BE1028}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1834020B-DDDB-4FFF-8CC2-5BB7B2BE1028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEAE5F6-AF27-4FF2-AD5B-7AA395134F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEAE5F6-AF27-4FF2-AD5B-7AA395134F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEAE5F6-AF27-4FF2-AD5B-7AA395134F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEAE5F6-AF27-4FF2-AD5B-7AA395134F0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
